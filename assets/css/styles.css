@@ -844,43 +844,7 @@ img {
 
 /*==================== TESTIMONIAL ====================*/
 
-.testimonial__data, .testimonial__header {
-    display: flex;
-}
 
-.testimonial__data {
-    justify-content: space-between;
-    margin-bottom: var(--mb-1-5);
-}
-
-.testimonial__img {
-    width: 90px;
-    height: 90px;
-    border-radius: 40%;
-    margin-right: var(--mb-0-75);
-}
-
-.testimonial__name {
-    font-size: 19px;
-    font-weight: var(--font-medium);
-}
-
-.testimonial__client {
-    font-size: var(--small-font-size);
-    color: var(--text-color-light);
-}
-
-.testimonial__description {
-    margin-bottom: var(--mb-2-5);
-}
-
-.testimonial__icon-star {
-    color: var(--first-color);
-}
-
-.swiper-container .swiper-pagination-testimonial {
-    bottom: 0;
-}
 
 /*==================== CONTACT ME ====================*/
 
